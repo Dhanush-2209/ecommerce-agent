@@ -60,7 +60,7 @@ The following CSVs were mapped into a SQLite database:
 
 ```bash
 git clone https://github.com/Dhanush-2209/ecommerce-agent.git
-cd ecommerce-ai-agent
+cd ecommerce-agent
 ```
 
 ### 2. Install backend dependencies
